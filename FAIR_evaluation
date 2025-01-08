@@ -1,0 +1,13 @@
+{
+  "editor.wordWrap": "on"
+}
+The purpose of the data set chosen is to understand the impact that CBD and CBG can have on the metabolism of mice inoculated with lean and obese human gut microbiomes. Specifically this dataset is a targeted metabolomics analysis of phyto and endocannbiniods in mice plasma to better understand the role CBD and CBG may have on health metrics and metabolism. 
+The FAIR, Findability, Accessibility, Interoperability, and Reusability, Princples are an important guideline for reproducibliy of scientific data. This dataset adheres to the FAIR principles for scientific data management and stewardship in the following ways. 
+Findablitity: This dataset has globally unique and persistent identifers that accompany the data with the data, experiment type, and unique study name clearly define with all sets of data.  Additionally, the targeted metabolomics dataset has a metadatafile that clearly states fields that define how each sample is unique by sex, microbiome, and treatment. Futhermore, there is information about the collection time and more within the metadata. 
+Accessible: The dataset and metadata will be avaiable on github and will be accompanied with a readme file which will explain the intricacies of the data.  
+Interoperable: All types of dat will use open formats and will use consistent language across all files.
+Reusable: The data in this project will be clearly indicate where it was taken, by whom, when, and in what manner. Futhermore, the data will be clearly described in the readme file with consistent langauge. 
+
+
+git clone https://github.com/evakeo/CBD_datacamp_2025.git
+cd CBD_datacamp_2025
